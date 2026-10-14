@@ -1,0 +1,14 @@
+fairscale==0.4.13
+h3==3.7.7
+lightning==2.4.0
+prefect==3.0.1
+psycopg2_binary==2.9.9
+pytorch_lightning==2.4.0
+PyYAML==6.0.2
+setuptools==72.1.0
+SQLAlchemy==2.0.34
+torch==2.4.0
+torchmetrics==1.4.1
+tqdm==4.66.5
+pandas==*
+python_dotenv==*
