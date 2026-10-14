@@ -1,6 +1,7 @@
 # Lightweight Air Pollution Modeling using Deep Neural Network based Sparse Reconstruction
 
 This project implements a spatial modeling approach for PM2.5 particulate matter using the Senseiver neural network architecture. The Senseiver reconstructs n-dimensional continuous signals from sparse observations, making it well-suited for environmental monitoring applications.
+Preprint: https://arxiv.org/pdf/2604.18973 
 
 
 ## Installation
